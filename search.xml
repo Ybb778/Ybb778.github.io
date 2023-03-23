@@ -8,7 +8,7 @@
       <link href="/2023/03/23/2023-03-23%20%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
       <url>/2023/03/23/2023-03-23%20%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</url>
       
-        <content type="html"><![CDATA[<h2 id="第一篇文章（测试）"><a href="#第一篇文章（测试）" class="headerlink" title="第一篇文章（测试）"></a>第一篇文章（测试）</h2>]]></content>
+        <content type="html"><![CDATA[<h2 id="第一篇文章（测试）"><a href="#第一篇文章（测试）" class="headerlink" title="第一篇文章（测试）"></a>第一篇文章（测试）</h2><h3 id="测试代码块"><a href="#测试代码块" class="headerlink" title="测试代码块"></a>测试代码块</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title function_">main</span><span class="params">(String[] args)</span>&#123;</span><br><span class="line">    System.out.println(<span class="string">&quot;测试java代码块&quot;</span>);</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><p>** MD 语法不会 明天再搞**</p>]]></content>
       
       
       
